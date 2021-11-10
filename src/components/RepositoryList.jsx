@@ -1,4 +1,8 @@
+//Componentes
 import { RepositoryItem } from "./RepositoryItem";
+
+//Estilos
+import '../styles/repositories.scss';
 
 const repository = {
     name: 'unform2',
